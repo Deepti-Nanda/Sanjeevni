@@ -1,4 +1,4 @@
-# Sudarshan
+# Sanjeevni
 Real-time hospital emergency management system built with Node.js and MongoDB.
 A web-based emergency management system that helps users quickly locate nearby hospitals, check availability, and manage emergency response efficiently.
 
@@ -47,4 +47,4 @@ Features:
 
 🧑‍⚕️ Admin panel for hospital updates
 
-📊 Real-time data managemen
+📊 Real-time data management
